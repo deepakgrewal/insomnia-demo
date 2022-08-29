@@ -1,7 +1,7 @@
 _id: spc_dcb6a43ff46a478584913f6b025c7146
 type: ApiSpec
 parentId: wrk_bdd5587e210849449494aee320fe4883
-modified: 1661770264017
+modified: 1661770401154
 created: 1661670301786
 fileName: httpbin
 contents: |-
@@ -10,7 +10,7 @@ contents: |-
   info:
     title: Sample HTTPBin Service
     description: Public HTTPBin Service
-    version: 0.1.3
+    version: 0.1.4
     
   servers:
     - url: https://httpbin.org
